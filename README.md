@@ -3,7 +3,7 @@ My Portfolio
 
 ---
 # 🧪 Software Quality Assurance Portfolio  
-### Avosevu Peter Sewedo – Junior Software Quality Assurance Engineer
+### Avosevu Peter Sewedo –  Software Quality Assurance Engineer
 
 👋 Welcome to my Software Quality Assurance (SQA) Portfolio.  
 This repository showcases my hands-on experience in **manual testing**, test documentation, and quality assurance best practices gained through training and real-world projects at **Conclase Academy**.
@@ -12,7 +12,7 @@ This repository showcases my hands-on experience in **manual testing**, test doc
 
 ## 👤 About Me
 
-I am a detail-oriented **Junior Software Quality Assurance Engineer** with strong foundations in **manual testing** and exposure to **automation basics**. My focus is on ensuring software quality, usability, and reliability through effective test planning, execution, and defect reporting.
+I am a detail-oriented  Software Quality Assurance Engineer with strong foundations in **manual testing** and exposure to **automation basics**. My focus is on ensuring software quality, usability, and reliability through effective test planning, execution, and defect reporting.
 
 I enjoy analyzing requirements, breaking applications, documenting defects clearly, and collaborating with developers to improve product quality.
 
@@ -102,7 +102,7 @@ Each reported bug includes:
 
 ## 💼 Experience
 
-### Junior Software Quality Assurance Engineer  
+###  Software Quality Assurance Engineer  
 **Conclase Academy**
 
 - Executed manual test cases for web-based applications  
